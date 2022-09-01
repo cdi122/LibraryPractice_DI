@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
 
         }
 
-        Glide.with(this).load("https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/4VTMIGOICP2DUYW6ZUWVKEDET4.png").into(lectureImg1)
+        Glide.with(this).load("http://cloudfront-ap-northeast-1.images.arcpublishing.com/chosunbiz/4VTMIGOICP2DUYW6ZUWVKEDET4.png").into(lectureImg1)
 
     }
 }
